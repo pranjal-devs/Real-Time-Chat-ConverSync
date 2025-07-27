@@ -1,7 +1,7 @@
 const mongoose = require("mongoose");
 
 // Connect to MongoDB
-mongoose.connect("mongodb+srv://Pranjal:QJghEdDkm3hxSp7l@cluster0.4wkxo.mongodb.net/conversync-chat-app");
+mongoose.connect("Your Mongo URL");
 
 // User Schema
 const userSchema = new mongoose.Schema({
