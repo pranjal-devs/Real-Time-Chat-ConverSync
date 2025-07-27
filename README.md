@@ -41,7 +41,7 @@
 
 ##  Screenshots
 
-| Sign Up Page | Join Room | Live Chat |
+| Sign Up | Login | Join Room | Live Chat |
 |-------------|------------|------------|
 | ![Sign Up](./client/public/SignUp.png) | ![Login](./client/public/SignIn.png) | ![Join Room](./client/public/JoinRoom.png) | ![Chat Room](./client/public/Chats.png) |
 
