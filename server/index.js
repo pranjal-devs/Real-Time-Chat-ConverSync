@@ -9,7 +9,7 @@ const { UserModel } = require("./db");
 
 const PORT = 3001;
 const CORS_ORIGIN = "http://localhost:5173";
-const JWT_SECRET = "randompranjal123";
+const JWT_SECRET = "your random secret key";
 
 const app = express();
 app.use(cors());
